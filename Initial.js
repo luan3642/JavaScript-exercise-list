@@ -13,3 +13,15 @@ function definirHTML(){
 function mudarTexto(){
     document.write(6+9)
 }
+
+function mostraAlerta(){
+    alert("olaaaaaa")
+}
+
+function usandoConsole(){
+    console.log("olaaa")
+}
+
+function printarTela(){
+    window.print()
+}
